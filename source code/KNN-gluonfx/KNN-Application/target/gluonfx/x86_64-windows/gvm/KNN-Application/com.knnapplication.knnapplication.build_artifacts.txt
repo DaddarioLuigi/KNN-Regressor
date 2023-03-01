@@ -1,0 +1,6 @@
+[HEADER]
+com.knnapplication.knnapplication.h
+graal_isolate.h
+com.knnapplication.knnapplication_dynamic.h
+graal_isolate_dynamic.h
+

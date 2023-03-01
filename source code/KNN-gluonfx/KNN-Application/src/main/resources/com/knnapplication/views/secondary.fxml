@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.gluonhq.charm.glisten.mvc.View?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.text.Text?>
+
+<View fx:id="secondary" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="350.0" stylesheets="@secondary.css" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.knnapplication.views.SecondaryPresenter">
+   <center>
+      <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Questa applicazione è stata realizzata da Luigi Daddario ed è una semplice app gluonfx con lo scopo di implementare una GUI per il progetto KNN dell'esame di MAP. Tra i file della consegna è possibile visualizzare il codice sorgente o il link al repository di github." wrappingWidth="317.9831211566925" BorderPane.alignment="CENTER" />
+   </center>
+</View>
