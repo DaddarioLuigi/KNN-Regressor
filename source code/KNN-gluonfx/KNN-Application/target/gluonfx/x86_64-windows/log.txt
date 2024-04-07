@@ -1,3 +1,0 @@
-IOException: javafx.fxml.LoadException: 
-/com/knnapplication/views/primary.fxml:37
-

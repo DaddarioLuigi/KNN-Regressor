@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.knn.client"},{"l":"com.knn.example"},{"l":"com.knn.utility"},{"l":"com.knnapplication"},{"l":"com.knnapplication.views"}];updateSearchResults();
